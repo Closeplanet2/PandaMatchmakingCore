@@ -1,0 +1,6 @@
+name: PandaMatchmakingCore
+version: 1.0.0
+description: Matchmaking core
+authors: [Closeplanet2]
+main: com.closeplanet2.pandamatchmakingcore.PandaMatchmakingCore
+api-version: 1.20
